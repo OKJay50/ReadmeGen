@@ -16,6 +16,7 @@ this is a readme generator
 
 ## Usage
 [![Watch the Example Video](readmegen.jpg)](readmegen.webm)
+*click on jpg photo , then click view raw , and then view the downloaded video for sample video
 
 ## License
 This project is covered under the MIT license.
