@@ -14,12 +14,8 @@ this is an example readme generator
 check github repository
 
 ## Usage
-Here's a video demonstration of the project:
+[![Watch the Example Video](readmegen.jpg)](readmegen.webm)
 
-<video controls width="640" height="480">
-  <source src="readmegen.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
 
 ## Contributing
 
