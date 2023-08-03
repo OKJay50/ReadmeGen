@@ -14,8 +14,12 @@ this is a readme generator
 check github repository
 
 ## Usage
-[![Watch the video](<iframe src="https://drive.google.com/file/d/1WbIoiiGrUi8pf8HGrtw1gKPVOHUeC85i/preview" width="640" height="480"></iframe>)
+Here's a video demonstration of the project:
 
+<video controls width="640" height="480">
+  <source src="readmegen.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
 
 ## Contributing
 
