@@ -14,7 +14,7 @@ this is a readme generator
 check github repository
 
 ## Usage
-[![Watch the video](https://your-image-thumbnail-url.jpg)](https://drive.google.com/file/d/1WbIoiiGrUi8pf8HGrtw1gKPVOHUeC85i/preview)
+[![Watch the video](<iframe src="https://drive.google.com/file/d/1WbIoiiGrUi8pf8HGrtw1gKPVOHUeC85i/preview" width="640" height="480"></iframe>)
 
 
 ## Contributing
