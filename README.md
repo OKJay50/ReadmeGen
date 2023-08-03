@@ -11,7 +11,7 @@ this is a readme generator
 - [Questions](#questions)
 
 ## Installation
-
+* git clone https://github.com/OKJay50/readmegen.git
 * node index.js
 
 ## Usage
