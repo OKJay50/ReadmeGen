@@ -1,6 +1,6 @@
 # readmegen
 
-this is a readme generator 
+this is an example readme generator 
 
 ## Table of Contents
 - [Installation](#installation)
