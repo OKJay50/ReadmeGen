@@ -1,6 +1,6 @@
 # readmegen
 
-this is an example readme generator 
+this is a readme generator 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -11,17 +11,11 @@ this is an example readme generator
 - [Questions](#questions)
 
 ## Installation
-check github repository
+
+* node index.js
 
 ## Usage
 [![Watch the Example Video](readmegen.jpg)](readmegen.webm)
-
-
-## Contributing
-
-
-## Tests
-
 
 ## License
 This project is covered under the MIT license.
